@@ -33,3 +33,5 @@ A Imagem é um modelo estático e criado somente para leitura, com o código, as
 
 ## Container sendo executado:
 <https://youtu.be/4C6WPj51J3U>
+
+LLM que auxiliou no processo: Gemini

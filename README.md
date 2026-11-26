@@ -1,3 +1,4 @@
+
 # Site Estático Containerizado com Docker
 
 Projeto de um site estático (HTML, CSS, JavaScript e imagem) servido por um container **Nginx** via Docker.
@@ -29,3 +30,6 @@ Acesse: localhost:8080
 ## Diferença entre Imagem e Container
 
 A Imagem é um modelo estático e criado somente para leitura, com o código, as dependências e todas as configurações de uma certa aplicação. Container é uma instância em execução que é feita a partir de uma imagem. Enquanto uma Imagem é usada para distribuir aplicações, um Container é focado em rodar o ambiente isolado a partir dessa imagem.
+
+## Container sendo executado:
+<https://youtu.be/4C6WPj51J3U>
